@@ -2,7 +2,7 @@
 // KONFIGURASI PENTING
 // =================================================================
 // ⚠️ GANTI DENGAN URL GOOGLE SHEET ANDA
-const SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1cDcDxuAs2qRj0bGlWS77-Ps9wLgHiKjfBqeHgqyJP10/edit?usp=sharing';
+const SPREADSHEET_URL = 'Link Google Sheet';
 
 // -----------------------------------------------------------------
 // ⬇️ KONFIGURASI TANGGAL FLEKSIBEL (Ubah di sini) ⬇️

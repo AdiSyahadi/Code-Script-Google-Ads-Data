@@ -92,20 +92,6 @@ Ambil data performa iklan Google Ads secara historis per batch 30 hari, cocok un
 | **Versi 3** | Ambil data historis per batch 30 hari, cocok untuk migrasi data lama, lalu append ke Google Sheet |
 | **Versi 4** | Ambil data performa iklan berdasarkan rentang tanggal manual, plus detail Conversion Action, lalu append ke Google Sheet |
 
----
-
-<details>
-<summary>✨ Tips Dev: Biar Makin Keren</summary>
-
-- Gunakan [VS Code](https://code.visualstudio.com/) biar ngoding makin nyaman
-- Commit dengan pesan yang jelas, misal: `feat: add 30Day historical script`
-- Pakai badge & animasi di README biar repo makin standout
-- Share repo ke teman dev lain 🚀
-
-</details>
-
----
-
 
 ---
 

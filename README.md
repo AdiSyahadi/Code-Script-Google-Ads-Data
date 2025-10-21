@@ -11,7 +11,16 @@
 
 ---
 
-Kumpulan script Google Ads (Google Ads Script) untuk otomatisasi ekspor data performa iklan ke Google Sheets. Ada 3 versi script yang bisa kamu pilih sesuai kebutuhan:
+
+Kumpulan script Google Ads (Google Ads Script) untuk otomatisasi ekspor data performa iklan ke Google Sheets. Ada beberapa versi script yang bisa kamu pilih sesuai kebutuhan:
+## 🧩 Full Code Script - Versi 4 (Manual Range & Append + Conversion Action)
+Ambil data performa iklan Google Ads berdasarkan rentang tanggal manual, dan menambahkan detail Conversion Action pada laporan. Data tetap di-append ke Google Sheet tanpa menghapus data lama.
+
+**Fitur:**
+- Pilih rentang tanggal secara manual
+- Ekspor 4 jenis laporan: Performa Iklan, Rentang Usia, Gender, dan Conversion Action
+- Data baru akan di-append ke sheet
+- Otomatis membuat sheet jika belum ada
 
 
 ## 📝 Full Code Script - Versi 1 (Manual Range & Append)
@@ -81,6 +90,7 @@ Ambil data performa iklan Google Ads secara historis per batch 30 hari, cocok un
 | **Versi 1** | Ambil data performa iklan berdasarkan rentang tanggal manual, lalu append ke Google Sheet |
 | **Versi 2** | Ambil data performa iklan untuk tanggal kemarin secara otomatis, lalu append ke Google Sheet |
 | **Versi 3** | Ambil data historis per batch 30 hari, cocok untuk migrasi data lama, lalu append ke Google Sheet |
+| **Versi 4** | Ambil data performa iklan berdasarkan rentang tanggal manual, plus detail Conversion Action, lalu append ke Google Sheet |
 
 ---
 

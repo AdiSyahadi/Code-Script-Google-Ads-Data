@@ -100,5 +100,5 @@ Ambil data performa iklan Google Ads secara historis per batch 30 hari, cocok un
 ---
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B801&center=true&vCenter=true&width=380&lines=Dibuat+oleh:+[Nama+Anda]+|+Update:+21+Oktober+2025"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B801&center=true&vCenter=true&width=380&lines=Dibuat+oleh:+[adi]+|+Update:+21+Oktober+2025"/>
 </p>

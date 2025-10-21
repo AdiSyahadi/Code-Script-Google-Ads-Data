@@ -57,12 +57,17 @@ Ambil data performa iklan Google Ads secara historis per batch 30 hari, cocok un
 
 ## 🚦 Cara Penggunaan
 ```bash
-1. Pilih script yang sesuai kebutuhan kamu (manual, yesterday, atau 30 hari historis)
-2. Salin ke Google Ads Script Editor
+1. Pilih script yang sesuai kebutuhan kamu:
+	- Versi 1: Manual Range & Append
+	- Versi 2: Yesterday & Append
+	- Versi 3: 30Day Historical & Append
+	- Versi 4: Manual Range & Append + Conversion Action / Yesterday & Append + Conversion Action
+2. Salin script ke Google Ads Script Editor
 3. Ganti `SPREADSHEET_URL` dengan link Google Sheet kamu (share editor)
-4. Untuk versi 1, atur `START_DATE` dan `END_DATE` sesuai kebutuhan
-5. Untuk versi 3, atur `INITIAL_START_DATE`, `TARGET_END_DATE`, dan `BATCH_DAYS` jika perlu
-6. Jalankan fungsi `main()`
+4. Untuk versi 1 & 4 (Manual), atur `START_DATE` dan `END_DATE` sesuai kebutuhan
+5. Untuk versi 2 & 4 (Yesterday), script otomatis ambil data kemarin
+6. Untuk versi 3, atur `INITIAL_START_DATE`, `TARGET_END_DATE`, dan `BATCH_DAYS` jika perlu
+7. Jalankan fungsi `main()`
 ```
 
 
